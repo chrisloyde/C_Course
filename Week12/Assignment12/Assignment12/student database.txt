@@ -1,0 +1,12 @@
+895329,Tom Elder,Computer Science,Downtown Campus
+564123,Elissa Honk,Interior Design,East Campus
+963474,Alfonso Dobra,Civil Engineering,West Campus
+127485,Paolo Morisa,Accounting,West Campus
+330021,Lisa Bali,Accounting,Downtown Campus
+844112,Eli Dovian,Computer Science,East Campus
+745112,Rola Etrania,Civil Engineering,East Campus
+541247,Pamela Dotti,Interior Design,East Campus
+745930,Paul Sabrini,Accounting,Downtown Campus
+500124,Gabriella Alma,Accounting,Downtown Campus
+741206,Joe Damian,Computer Science,West Campus
+963100,Perla Kino,Interior Design,East Campus

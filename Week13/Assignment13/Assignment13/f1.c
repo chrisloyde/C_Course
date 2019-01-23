@@ -1,0 +1,7 @@
+
+
+void fcat();
+
+int main() {
+
+}
